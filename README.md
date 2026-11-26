@@ -1,4 +1,4 @@
-# IN3030 - Efficient Parallel Programming (2022)
+# IN3030 - Efficient Parallel Programming (2021-2022)
 
 My solutions to the five mandatory assignments of IN3030 at the University of Oslo, written in Java.
 Each assignment compares a sequential and a parallel (multi-threaded) version and measures the speedup;
